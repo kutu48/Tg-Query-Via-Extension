@@ -38,3 +38,4 @@ This guide will help you install a Chrome extension manually in **Developer Mode
 
 Now you can manually install and manage your Chrome extension in **Developer Mode**. If you have any questions, feel free to reach out!
 
+Devlop by WINSNIP : https://t.me/winsnip
